@@ -1,2 +1,2 @@
 # ApacheHTTPClient
-Accessing API Endpoint Using Apache Endpoint
+Accessing API Endpoint Using ApacheHTTPClient
