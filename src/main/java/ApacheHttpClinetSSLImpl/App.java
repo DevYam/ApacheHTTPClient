@@ -1,4 +1,4 @@
-package divyamkaapi;
+package ApacheHttpClinetSSLImpl;
 
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpHeaders;
